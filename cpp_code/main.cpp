@@ -34,7 +34,7 @@ int main(int argc, char *argv[])
 	char dongdir[300], outfile1[300], restartfile[300];
 
 	// DP PARAMETERS
-	int Na = 40;  // Number of Dps
+	int Na = 30;  // Number of Dps
 	int Nss = 50; // Number of vertices
 	double delta = 1.1;
 	int Alf_int = 100;
